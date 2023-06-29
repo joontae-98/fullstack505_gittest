@@ -10,6 +10,8 @@ public class TestController {
     @RequestMapping("/")
     public String index() throws Exception {
         return "index";
+
+        // 병합 테스트
     }
 
 }
