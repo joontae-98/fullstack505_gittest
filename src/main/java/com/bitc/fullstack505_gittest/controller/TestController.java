@@ -12,6 +12,7 @@ public class TestController {
         return "index";
 
         // 병합 테스트
+        // 병합 테스트2
     }
 
 }
